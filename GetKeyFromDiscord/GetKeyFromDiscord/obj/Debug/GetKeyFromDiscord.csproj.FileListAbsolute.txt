@@ -1,0 +1,13 @@
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.csproj.AssemblyReference.cache
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.Form1.resources
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.Properties.Resources.resources
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.csproj.GenerateResource.cache
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.csproj.CoreCompileInputs.cache
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\bin\Debug\GetKeyFromDiscord.exe.config
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\bin\Debug\GetKeyFromDiscord.exe
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\bin\Debug\GetKeyFromDiscord.pdb
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.exe
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFromDiscord.pdb
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\bin\Debug\System.CodeDom.dll
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\bin\Debug\System.CodeDom.xml
+C:\Users\NoMoreLife\source\repos\GetKeyFromDiscord\GetKeyFromDiscord\obj\Debug\GetKeyFr.E1BC68F7.Up2Date
